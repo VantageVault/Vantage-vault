@@ -38,7 +38,6 @@ This is an **Alpha** version.
 ---
 
 ## 🌐 Community & Support
-Join our Discord to get the **Alpha Tester** role and stay updated:
-[Join the SyncPointFlow Discord]([VantageDiscord](https://discord.gg/DCNfAcfgsN))
+Join our Discord to get the **Alpha Tester** role and stay updated: https://discord.gg/DCNfAcfgsN
 
 **SyncPointFlow** | *Security First.*
