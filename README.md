@@ -5,7 +5,7 @@ Vantage is a high-performance desktop security application designed to secure yo
 ---
 
 ## 🛡️ Security & Trust
-We prioritize transparency. Even though we are an independent developer ("Unknown Publisher"), we ensure our builds are safe:
+We prioritize transparency. Even though we are an independent developer, we ensure our builds are safe:
 
 * **Microsoft Verified:** Our Alpha installer has been manually reviewed and cleared by **Microsoft Security Intelligence**.
 * **Submission ID:** `1516eddb-2b14-459f-8193-e51f17c2321b`
