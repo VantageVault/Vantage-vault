@@ -58,7 +58,7 @@ This is a **Beta** release. Core features are stable but you may encounter edge 
  🌐 Community & Support
 
 Join our Discord for the **Beta Tester** role, bug reports, and announcements:
-👾 **https://discord.gg/vantagevault**
+👾 **https://discord.gg/DCNfAcfgsN**
 
 | Channel | Use |
 |---|---|
